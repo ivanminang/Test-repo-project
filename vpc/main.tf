@@ -1,0 +1,1 @@
+configure your aws credentials for the user
